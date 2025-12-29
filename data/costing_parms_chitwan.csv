@@ -1,0 +1,6 @@
+indicator,mode,low,high
+total_cost_of_intervention_per_person,130,105,156
+cost_of_TB_treatment,300,292,402
+life_expectancy_at_TB_infection,31,21,44
+disability_weight,0.33,0.22,0.45
+duration_of_disease,1.81,1.39,2.15
