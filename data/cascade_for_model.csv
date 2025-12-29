@@ -2,7 +2,7 @@
 cnr,126,79
 hh_size,4,4.13
 pc_tst_eligible,0.825,0.688
-pc_tst_consent,0.938,0.916
-pc_positive,0.495,0.495
+pc_tst_consent,0.938,0.816
+pc_positive,0.459,0.459
 pc_enrolled,0.91,0.97
 pc_complete,0.95,0.95
