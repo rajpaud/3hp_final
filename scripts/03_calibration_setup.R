@@ -99,10 +99,6 @@ for (js in 1:nrow(sim.pars)) {
 
 # save "results"
 
-# saving the results ##################can be removed
-
-save(results, file = "3.Calibration/results_10.1.rda")
-
 # selecting only the parameters at year 2022
 
 cal_output <- list()
