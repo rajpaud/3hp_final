@@ -14,7 +14,7 @@ int_cost <- read.csv("data/intervention_costs.csv")
 cea_parms <- read_csv("data/costing_parms_chitwan.csv") # py_cea_parms for Pyuthan
 
     # generating sample using triangle distribution
-        n_samples <- 482 # number of simulations within calibration range for Chitwan # 1383 for Pyuthan
+        n_samples <- 1067 # number of simulations within calibration range for Chitwan # 884 for Pyuthan
         ea_parms_distb <- matrix(NA, n_samples, nrow(cea_params))
 
         for (i in 1:nrow(cea_params)) {
