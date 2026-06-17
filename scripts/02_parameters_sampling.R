@@ -8,7 +8,7 @@ library(EnvStats)
 set.seed(20240410)
 
 # setting number of samples
-nsmpl <- 10000
+nsmpl <- 100000
 
 # importing the parameters range
 par.range <- read.csv("data/par_range.csv", row.names = 1)
